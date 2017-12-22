@@ -1,4 +1,4 @@
-# cd resume/zack_robinson
+# resume/zack_robinson
 
 A work in progress.
 
